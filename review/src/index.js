@@ -5,4 +5,4 @@ import AppFunc from './AppFunc';
 import AppClass from './AppClass';
 
 const rootElement = document.getElementById('root');
-ReactDOM.render(<AppFunc />, rootElement);
+ReactDOM.render(<AppClass />, rootElement);
